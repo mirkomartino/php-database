@@ -1,7 +1,8 @@
 {
     "name": "mirkomartino/core",
     "description": "Una classe pergestire il core del CRM",
-    "type": "package",
+    "version": "1.0.1",
+    "type": "library",
     "require": {
         "php": "5.4"
     },
