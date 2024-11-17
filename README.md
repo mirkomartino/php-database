@@ -1,0 +1,1 @@
+Una classe pergestire il core del CRM
